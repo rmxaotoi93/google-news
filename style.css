@@ -34,3 +34,7 @@
     background-color: rgb(240, 243, 39);
     
 }
+footer{
+    background-color: gray;
+    min-height: 100px;
+}
