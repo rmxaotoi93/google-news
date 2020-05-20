@@ -1,0 +1,36 @@
+#news{
+    display: flex;
+    align-items: center;
+    border: 1px solid gray;
+    margin-left: auto;
+    margin-right: auto;
+}
+#imgArea{
+    width: 200px;
+    min-height: 100px;
+    
+}   
+
+#imgArea img{
+    width: 200px;
+    height: 200px;
+}
+#moreNews{
+    display: flex;
+    align-items: center;
+    border: 1px solid gray;
+}
+#imgAreaMore{
+    width: 200px;
+    min-height: 100px;
+    
+}   
+
+#imgAreaMore img{
+    width: 200px;
+    height: 200px;
+}
+.hover:hover{
+    background-color: rgb(240, 243, 39);
+    
+}
